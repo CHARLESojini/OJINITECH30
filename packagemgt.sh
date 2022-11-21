@@ -1,1 +1,2 @@
-package manage
+package manager
+make use everyday
